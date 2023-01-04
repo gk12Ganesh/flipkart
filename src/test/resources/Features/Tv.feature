@@ -1,8 +1,7 @@
 
 
 Feature: Tv purchase
-  
-  
+ 
   Scenario: user purachsing tv
     Given user launching URL
     And   user login flipkart
